@@ -1,0 +1,10 @@
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+dist/
+build/
+.env
+data/raw/*
+data/processed/*
